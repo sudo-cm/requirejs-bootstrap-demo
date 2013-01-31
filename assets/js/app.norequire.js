@@ -1,0 +1,3 @@
+(function ($) {
+    $('#myModalButton').show();
+})(jQuery);
